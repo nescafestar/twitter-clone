@@ -1,8 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TWITT
+<p align="center">
+  <a href="https://github.com/waleed-javed/AWS-ErpSolution">
+    <img src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/homepage/en/home-masthead-desktop.jpg.twimg.1920.jpg" alt="Logo">
+  </a>
+</p>
 
-## Available Scripts
+## Pre Req
 
-In the project directory, you can run:
+- NodeJS
+- REACT.JS
+- Express
+- Axios
+- Networking basics
+- Api Integration
+- Server side Programming
 
 ### `npm start`
 
